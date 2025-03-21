@@ -1,0 +1,12 @@
+{
+    "github.copilot.chat.codeGeneration.instructions": [
+        {
+            "text": "Write clean, efficient, and well-documented code. Follow consistent naming conventions based on the target language. Use meaningful variable and function names. Include comments for complex logic. Break complex functions into smaller, more manageable pieces. Handle errors appropriately. Optimize for readability over clever solutions. Include appropriate unit tests where applicable. Follow modern best practices for the target language or framework."
+        }
+    ],
+    "github.copilot.chat.commitMessageGeneration.instructions": [
+        {
+            "text": "Make very detailed commit messages for each commit. Use the present tense and be specific about what was changed, added, or removed. Avoid using vague terms like 'fixed' or 'updated'. Instead, describe the exact changes made in the code. For example, instead of saying 'fixed bug', say 'corrected the logic in the user authentication function to prevent unauthorized access'."
+        }
+    ],
+}
